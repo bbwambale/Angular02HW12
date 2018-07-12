@@ -12,7 +12,7 @@ export class ProductListComponent{
     {
     "productId":2,
     "productName":"Garden Cart",
-    "productCode":"GDN-0023",
+    "productCode":"GDN-00243",
     "releaseDate":"March 18, 2016",
     "description":"15 gallon Capacity",
     "price":32.99,
